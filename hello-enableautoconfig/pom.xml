@@ -45,14 +45,14 @@
 
 
     <modules>
-        <module>hello-user</module>
-        <module>hello-annotation</module>
-        <module>hello-component-scan</module>
-        <module>hello-config</module>
-        <module>hello-service</module>
-        <module>hello-starter</module>
-		<module>hello-conditional-starter</module>
-        <module>hello-conditional2-starter</module>
-        <module>hello-conditional3-starter</module>
+        <module>e-hello-user</module>
+        <module>c-hello-annotation</module>
+        <module>d-hello-component-scan</module>
+        <module>b-hello-config</module>
+        <module>a-hello-service</module>
+        <module>f-hello-starter</module>
+		<module>g-hello-conditional-starter</module>
+        <module>h-hello-conditional2-starter</module>
+        <module>i-hello-conditional3-starter</module>
     </modules>
 </project>
